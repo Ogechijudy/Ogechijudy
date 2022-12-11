@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ogechijudy
-- 👀 I’m interested in product management projects
-- 🌱 I’m currently learning product management 
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in product management, data analysis and product design
+- 🌱 I’m currently learning python and product design concepts
+- 💞️ I’m looking to collaborate on projects that would help showcase my product management skills
 
 
 <!---
